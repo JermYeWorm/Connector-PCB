@@ -1,5 +1,5 @@
 # Connector PCB
-Simple modular wire harnessing system for the Qubo's submarine hull using a centralized connector PCB designed for current bandwith compatibility. Built with KiCad 6.0. Built for Robotics @ Maryland in 2023.
+Simple modular wire harnessing system for the Qubo's submarine hull using a centralized connector PCB designed for current bandwith compatibility. Increased submarine electrical system bootup from under 35% success rate to over 98%. Built with KiCad 6.0. Built for Robotics @ Maryland in 2023.
 <br><br>
 
 # System Integration
