@@ -1,4 +1,4 @@
-# Connector_eFuse
+# Connector_PCB
 Simple modular wire harnessing system for the Qubo's submarine hull using a centralized connector PCB. Designed with KiCad.
 <br><br>
 
